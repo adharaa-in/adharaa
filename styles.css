@@ -49,7 +49,6 @@ body{
 
 .footer{
 
-
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -65,3 +64,4 @@ body{
         float: none; /* Added */
         margin-bottom: 10px; /* Added */
 }
+
